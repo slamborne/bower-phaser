@@ -1133,7 +1133,7 @@ declare module Phaser {
         static generateFrameNames(prefix: string, start: number, stop: number, suffix?: string, zeroPad?: number);
         //methods
         destroy(): void;
-        onComplete(): void;
+        onComplete: Phaser.Signal;
         play(frameRate?: number, loop?: boolean, killOnComplete?: boolean): Phaser.Animation;
         restart(): void;
         stop(resetFrame?: boolean): void;
