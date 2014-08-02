@@ -1,6 +1,9 @@
 # bower-phaser
 
-The source for this package is in the [main Phaser repo](https://github.com/photonstorm/phaser).
+The unofficial bower package that is simply a duplication of the `phaser/build` folder.
+
+All code is authored by Richard Davey. Copyright (c) 2014 Photon Storm Ltd. Licensed under the MIT License
+Source for this package is from [photonstorm/phaser/build](https://github.com/photonstorm/phaser/tree/master/build)
 
 ## Install
 
