@@ -1,30 +1,22 @@
 {
-  "name": "phaser",
-  "version": "2.0.4",
+  "name": "bower-phaser",
+  "description": "The unofficial bower package that is simply a duplication of the phaser/build folder. All code is authored by Richard Davey. Copyright (c) 2014 Photon Storm Ltd. Licensed under the MIT License",
   "main": "./phaser.js",
-  "homepage": "http://phaser.io",
-  "authors": [
-    "photonstorm <rich@photonstorm.com>"
-  ],
-  "description": "A fun, free and fast 2D game framework for making HTML5 games for desktop and mobile, supporting Canvas and WebGL.",
+  "license": "MIT",
   "keywords": [
-    "html5",
-    "game",
-    "games",
-    "framework",
-    "canvas",
-    "WebGL",
-    "tilemaps",
-    "physics",
-    "sprites",
-    "fonts",
-    "images",
-    "audio",
-    "Web",
-    "Audio",
-    "touch",
-    "input",
-    "mobile"
+    "phaser",
+    "phaser.io",
+    "photonstorm",
   ],
-  "license": "MIT"
+  "authors": [
+    "nDmitry",
+    "ekmartin",
+    "nwertzberger",
+    "tlimpanont",
+    "slamborne"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nDmitry/bower-phaser.git"
+  }
 }
